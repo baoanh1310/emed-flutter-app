@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1083177557124",
+    "project_id": "emed2021-15d62",
+    "storage_bucket": "emed2021-15d62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083177557124:android:739ccbca62cec82717b6d1",
+        "android_client_info": {
+          "package_name": "com.lw.emed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083177557124-sne95c2c7e2o8h7om3nhudurf8j1ed5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9JZIDfQkeAvk09ZFXVy1GSOGHJsWdeTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083177557124-sne95c2c7e2o8h7om3nhudurf8j1ed5a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083177557124-45ej0v3mrjiij5ihksnra412bikcmm85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lw.emed"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
